@@ -4,5 +4,5 @@ models for stochastically deteriorating single-unit systems, Naval
 Research Logistics, 36, 419-446.) 
 Üretim sistemlerinde yaşanan yıpranmaların olağandan daha büyük masraf kalemleri oluşturmaması için firmaların hedeflerine uygun bakım planlarına ve farklı durumlarda izlenecek stratejilere sahip olmaları gerekmektedir. ((Wang 2011).)
 
-Yüksek talepleri karşılamak için üretim sistemleri daha otomatize hale gelmeye başlamıştır. 
 
+Yüksek talepleri karşılamak için üretim sistemleri daha otomatize ve komplike hale gelmesiyle üretimi yapılan nihai ürünlerin teknolojik kabiliyetleri ve finansal değerleri oldukça artmıştır. Çalışmanın yapıldığı Türk Uzay Havacılık ve Uzay Sanayii şirketinde de üretilen uçak komponentleri, helikopterler,insansız hava araçları, savaş jetleri ve eğitim jetleri bu tanıma uymaktadır. Bu bağlamdaki ürünlerin üretimden sorumlu sistemlerde bakım çalışmasını zorunlu hale getirecek beklenmeyen arızalar yüksek maliyetlere, makine arızalarına ve ürün kusurlarına yol açacağından şirketi temelden etkileyecek zincirleme bir reaksiyona sebebiyet verebilir.
